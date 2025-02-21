@@ -22,7 +22,7 @@ public static class TestData
     [
         new EmployeeEntity {FirstName = "Anton", LastName = "Haglund", Email = "anton@domain.com"},
         new EmployeeEntity {FirstName = "Cecilia", LastName = "Sporrong", Email = "ccf@domain.com"},
-        new EmployeeEntity {FirstName = "Céline", LastName = "Haglund Sporrong", Email = "cello@domain.com"},
+        new EmployeeEntity {FirstName = "Céline", LastName = "Haglund Sporrong", Email = "cello@domain.com"}, 
     ];
 
     public static readonly ServiceEntity[] ServiceTestData =
