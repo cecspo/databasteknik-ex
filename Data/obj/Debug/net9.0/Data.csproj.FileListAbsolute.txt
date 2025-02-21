@@ -1,0 +1,14 @@
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\bin\Debug\net9.0\Data.deps.json
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\bin\Debug\net9.0\Data.runtimeconfig.json
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\bin\Debug\net9.0\Data.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\bin\Debug\net9.0\Data.pdb
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.pdb
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\Data.genruntimeconfig.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Data\obj\Debug\net9.0\ref\Data.dll

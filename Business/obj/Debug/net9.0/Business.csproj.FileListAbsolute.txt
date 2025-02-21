@@ -1,0 +1,15 @@
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\bin\Debug\net9.0\Business.deps.json
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\bin\Debug\net9.0\Business.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\bin\Debug\net9.0\Business.pdb
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\bin\Debug\net9.0\Data.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\bin\Debug\net9.0\Data.pdb
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\Business.pdb
+C:\Projects\Databasteknik\Examination\ExaminationDatabasteknik\Business\obj\Debug\net9.0\ref\Business.dll

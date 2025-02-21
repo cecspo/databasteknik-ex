@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\seeddata\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\seeddata\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\statuscodeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\statuscodeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\repositories_tests\\projectrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\repositories_tests\\projectrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\repositories_tests\\statuscoderepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\repositories_tests\\statuscoderepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\seeddata\\datacontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\seeddata\\datacontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\projectcommententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\projectcommententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\repositories_tests\\customercontactrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\repositories_tests\\customercontactrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\repositories_tests\\employeerepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\repositories_tests\\employeerepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\tests\\repositories_tests\\customerrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3980EAC6-B5AA-4F2B-B319-413F615D8DB0}|Tests\\Data.Tests.csproj|solutionrelative:tests\\repositories_tests\\customerrepository_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\controllers\\statuscodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\controllers\\statuscodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\factories\\projectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\factories\\projectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\repositories\\branchtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\repositories\\branchtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\branchtypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\branchtypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\factories\\projectmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\factories\\projectmanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\factories\\customerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\factories\\customerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\factories\\statuscodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\factories\\statuscodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\services\\statuscodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\services\\statuscodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\statuscoderegistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\statuscoderegistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\projectmanagerregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\projectmanagerregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\projectmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\projectmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\services\\projectmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\services\\projectmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\business\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECB1D7F-4E2F-418F-B77A-5BF2D4B6BFA3}|Business\\Business.csproj|solutionrelative:business\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\projectdocumententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\projectdocumententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\data\\entities\\customertypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3291903E-FB39-4F4E-A85A-B09D4F251181}|Data\\Data.csproj|solutionrelative:data\\entities\\customertypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Migrations\\20250218210433_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250218210433_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|c:\\projects\\databasteknik\\examination\\examinationdatabasteknik\\wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BB98E99-3587-45E3-AD31-91C69FB5C9C2}|WepApi\\WebApi.csproj|solutionrelative:wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextSeeder.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\SeedData\\DataContextSeeder.cs",
+              "RelativeDocumentMoniker": "Tests\\SeedData\\DataContextSeeder.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\SeedData\\DataContextSeeder.cs",
+              "RelativeToolTip": "Tests\\SeedData\\DataContextSeeder.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:02:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusCodeRepository_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\StatusCodeRepository_Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories_Tests\\StatusCodeRepository_Tests.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\StatusCodeRepository_Tests.cs",
+              "RelativeToolTip": "Tests\\Repositories_Tests\\StatusCodeRepository_Tests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:59:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\SeedData\\TestData.cs",
+              "RelativeDocumentMoniker": "Tests\\SeedData\\TestData.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\SeedData\\TestData.cs",
+              "RelativeToolTip": "Tests\\SeedData\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:27:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectCommentEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectCommentEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ProjectCommentEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectCommentEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\ProjectCommentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:42:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusCodeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\StatusCodeEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\StatusCodeEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\StatusCodeEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\StatusCodeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:31:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectRepository_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\ProjectRepository_Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories_Tests\\ProjectRepository_Tests.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\ProjectRepository_Tests.cs",
+              "RelativeToolTip": "Tests\\Repositories_Tests\\ProjectRepository_Tests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:19:24.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerContactRepository_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\CustomerContactRepository_Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories_Tests\\CustomerContactRepository_Tests.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\CustomerContactRepository_Tests.cs",
+              "RelativeToolTip": "Tests\\Repositories_Tests\\CustomerContactRepository_Tests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:22:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\CustomerRepository_Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories_Tests\\CustomerRepository_Tests.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\CustomerRepository_Tests.cs",
+              "RelativeToolTip": "Tests\\Repositories_Tests\\CustomerRepository_Tests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:05:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\EmployeeRepository_Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Repositories_Tests\\EmployeeRepository_Tests.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Tests\\Repositories_Tests\\EmployeeRepository_Tests.cs",
+              "RelativeToolTip": "Tests\\Repositories_Tests\\EmployeeRepository_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:25:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WepApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WepApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:17:38.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WepApi\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WepApi\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:15:17.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WepApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WepApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:14:37.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusCodeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\StatusCodeController.cs",
+              "RelativeDocumentMoniker": "WepApi\\Controllers\\StatusCodeController.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Controllers\\StatusCodeController.cs",
+              "RelativeToolTip": "WepApi\\Controllers\\StatusCodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:13:06.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ProjectEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\ProjectEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:43:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BranchTypeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\BranchTypeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\BranchTypeRepository.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\BranchTypeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\BranchTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:10:57.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\AddressRepository.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:10:28.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:12:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Business\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:18:34.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectManagerFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\ProjectManagerFactory.cs",
+              "RelativeDocumentMoniker": "Business\\Factories\\ProjectManagerFactory.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\ProjectManagerFactory.cs",
+              "RelativeToolTip": "Business\\Factories\\ProjectManagerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:16:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Program.cs",
+              "RelativeDocumentMoniker": "WepApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\Program.cs",
+              "RelativeToolTip": "WepApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:35:53.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\ProjectFactory.cs",
+              "RelativeDocumentMoniker": "Business\\Factories\\ProjectFactory.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\ProjectFactory.cs",
+              "RelativeToolTip": "Business\\Factories\\ProjectFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:35:42.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StatusCodeFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\StatusCodeFactory.cs",
+              "RelativeDocumentMoniker": "Business\\Factories\\StatusCodeFactory.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\StatusCodeFactory.cs",
+              "RelativeToolTip": "Business\\Factories\\StatusCodeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:09:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\CustomerFactory.cs",
+              "RelativeDocumentMoniker": "Business\\Factories\\CustomerFactory.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Factories\\CustomerFactory.cs",
+              "RelativeToolTip": "Business\\Factories\\CustomerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:50:21.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BranchTypeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\BranchTypeEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\BranchTypeEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\BranchTypeEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\BranchTypeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:32:20.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\Customer.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\Customer.cs",
+              "RelativeToolTip": "Business\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:12:56.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\Project.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\Project.cs",
+              "RelativeToolTip": "Business\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:48:52.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StatusCodeService.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\StatusCodeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\StatusCodeService.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\StatusCodeService.cs",
+              "RelativeToolTip": "Business\\Services\\StatusCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:51:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StatusCodeRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\StatusCodeRegistrationForm.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\StatusCodeRegistrationForm.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\StatusCodeRegistrationForm.cs",
+              "RelativeToolTip": "Business\\Models\\StatusCodeRegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:19:49.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StatusCode.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\StatusCode.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\StatusCode.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\StatusCode.cs",
+              "RelativeToolTip": "Business\\Models\\StatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:55:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectManagerRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\ProjectManagerRegistrationForm.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\ProjectManagerRegistrationForm.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\ProjectManagerRegistrationForm.cs",
+              "RelativeToolTip": "Business\\Models\\ProjectManagerRegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:02:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Business\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:45:26.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProjectManagerEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectManagerEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ProjectManagerEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectManagerEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\ProjectManagerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:29:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProjectManagerService.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\ProjectManagerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ProjectManagerService.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Services\\ProjectManagerService.cs",
+              "RelativeToolTip": "Business\\Services\\ProjectManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:12:30.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\ProjectManager.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Business\\Models\\ProjectManager.cs",
+              "RelativeToolTip": "Business\\Models\\ProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:08:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:32:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProjectDocumentEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectDocumentEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ProjectDocumentEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\ProjectDocumentEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\ProjectDocumentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:44:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerTypeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\CustomerTypeEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\CustomerTypeEntity.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Entities\\CustomerTypeEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\CustomerTypeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:33:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250218210433_Init.cs",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Migrations\\20250218210433_Init.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250218210433_Init.cs",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\Data\\Migrations\\20250218210433_Init.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250218210433_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:04:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WepApi\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Databasteknik\\Examination\\ExaminationDatabasteknik\\WepApi\\appsettings.json",
+              "RelativeToolTip": "WepApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:35:56.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

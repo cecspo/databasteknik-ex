@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Geist+Mono:wght@100..900&family=Hubot+Sans:ital,wght@0,200..900;1,200..900&family=Macondo&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* { box-sizing: border-box;}
+
+:root {
+    --text-color: #333333;
+    --background-color: #ffffff;
+    --button-color: #ecdb93;
+    --button-hover-color: #d48b32;
+    --border-color: #7c4040;
+}
+
+html, body {
+    margin: 0;
+    /* kolla vad nedan gör */
+    line-height: 1.15; 
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: var(--text-color);
+    background-color: #a4a4a4;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    font-size: 5rem;
+    font-weight: bold;
+    background: linear-gradient(to right, var(--text-color), #b28b8b); /* Anpassa färger här */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    margin: 20px;
+}
+
+.section {
+    padding: 4rem 0;
+}
+
+button {
+    background-color: var(--button-color);
+    border-width: 1px;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 8px;
+    margin-bottom: 1rem;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    margin-left: auto;
+}
+
+button:hover {
+    background-color: var(--button-hover-color);
+}
+
+
+form {
+    max-width: 800px;
+
+    .form-group {
+        display: grid;
+
+    }
+    
+    label {
+        margin-bottom: 5px;
+    }
+
+    input, select, textarea {
+        font-size: 1rem;
+        font-family: 'Roboto', sans-serif;
+        padding: 8px;
+        margin-bottom: 1rem;
+        resize: none;
+        height: 100px;
+        background-color: var(--background-color);
+        color: var(--text-color);
+    }
+}
+
+#project-list {
+        .projects {
+
+            .project {
+                display: grid;
+                grid-template-columns: auto 1fr auto;
+                gap: 2rem;
+            }
+        }
+}
